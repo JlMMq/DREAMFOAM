@@ -1,0 +1,17 @@
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_BL.deps.json
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_BL.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_BL.pdb
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_ADO.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_BE.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_ADO.pdb
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\bin\Debug\net6.0\ProyDreamFoam_BE.pdb
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.csproj.AssemblyReference.cache
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.AssemblyInfoInputs.cache
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.AssemblyInfo.cs
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\refint\ProyDreamFoam_BL.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDreamFoam_BL.pdb
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ref\ProyDreamFoam_BL.dll
+D:\ISIL\2023-2\DreamFoamSystem\DreamFoamSystem\ProyDreamFoam_BL\obj\Debug\net6.0\ProyDrea.ACCBA651.Up2Date
